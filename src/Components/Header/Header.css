@@ -1,4 +1,4 @@
-.header{
+.header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -7,7 +7,8 @@
     padding-left: 140px;
     padding-right: 140px;
 }
-.header a{
+
+.header a {
     text-decoration: none;
     margin-left: 20px;
     color: #fff;
